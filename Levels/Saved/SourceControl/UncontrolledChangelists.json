@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ajitps2/Documents/GitHub/CS415_LevelsMP/Levels/Content/LearningKit_Games/Blueprints/BP_Mortar.uasset",
+				"C:/Users/ajitps2/Documents/GitHub/CS415_LevelsMP/Levels/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/ajitps2/Documents/GitHub/CS415_LevelsMP/Levels/Content/LearningKit_Games/Blueprints/BP_Bullet.uasset",
 				"C:/Users/ajitps2/Documents/Unreal Projects/Levels/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"C:/Users/ajitps2/Documents/Unreal Projects/Levels/Content/LearningKit_Games/UI/HealthHUD.uasset",
 				"C:/Users/ajitps2/Documents/Unreal Projects/Levels/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
